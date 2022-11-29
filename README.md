@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @toria0305 aka Vic
-- 👀 I’m interested in absoltely everthing, but beware! I'm only starting out on coding so I'm still in the process of learning(:
-- 🌱 I’m currently learning Python, Javascript, Html, and CSS
-- 💞️ I’m looking to collaborate on everything but mainly Javascript
+- 👋 Hi, I’m Vic
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning Python, Javascript, and react
 - 📫 How to reach me toria0305@gmail.com
 
 <!---
